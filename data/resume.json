@@ -1,0 +1,57 @@
+{
+  "experience": [
+    {
+      "title": "Full Stack Developer Intern",
+      "company": "PV Mart",
+      "period": "2025",
+      "points": [
+        "Led backend development as part of a development team using Node.js, Express.js and MongoDB",
+        "Built REST APIs for authentication, registration, events, queries and admin workflows",
+        "Implemented JWT-based authentication and role-based access control",
+        "Integrated MongoDB, Cloudinary and payment-related workflows and contributed to deployment"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech Computer Science & Engineering",
+      "institution": "Guru Nanak Institute of Technology",
+      "period": "2023–2027",
+      "notes": "CGPA: 8.14/10"
+    },
+    {
+      "degree": "Class XII",
+      "institution": "Thangapara High School",
+      "period": "WBCHSE",
+      "notes": "87.6%"
+    },
+    {
+      "degree": "Class X",
+      "institution": "Thangapara High School",
+      "period": "WBBSE",
+      "notes": "87.57%"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Programming in Java",
+      "issuer": "NPTEL",
+      "year": "2025"
+    },
+    {
+      "name": "Cloud Computing",
+      "issuer": "NPTEL",
+      "year": "2025"
+    },
+    {
+      "name": "Django",
+      "issuer": "BCT",
+      "year": "2025"
+    },
+    {
+      "name": "Cyber Security",
+      "issuer": "BCT",
+      "year": "2025"
+    }
+  ]
+}

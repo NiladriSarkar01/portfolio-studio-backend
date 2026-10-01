@@ -1,0 +1,171 @@
+[
+  {
+    "id": 3,
+    "name": "LinuxLens",
+    "description": "Windows desktop application for working with Linux environments, featuring a terminal, process management and Linux tooling through a JavaFX interface with Spring Boot, PTY4J and JediTerm.",
+    "tags": [
+      "Java",
+      "JavaFX",
+      "Spring Boot",
+      "Linux",
+      "PTY4J",
+      "Desktop"
+    ],
+    "githubUrl": "https://github.com/NiladriSarkar01/LinuxLens",
+    "demoUrl": "",
+    "category": "Developer Tools"
+  },
+  {
+    "id": 4,
+    "name": "Watcher",
+    "description": "Modular Go backend for API testing and documentation, designed around structured request execution, API documentation and response storage with a layered architecture.",
+    "tags": [
+      "Go",
+      "Gin",
+      "PostgreSQL",
+      "REST API",
+      "API Testing",
+      "System Design"
+    ],
+    "githubUrl": "",
+    "demoUrl": "",
+    "category": "Developer Tools"
+  },
+  {
+    "id": 5,
+    "name": "EnvMan",
+    "description": "Command-line tool for managing isolated environment variables across projects. Newly written values are encrypted and programs can be executed using a selected project environment.",
+    "tags": [
+      "Go",
+      "CLI",
+      "Security",
+      "Encryption",
+      "Environment Management"
+    ],
+    "githubUrl": "",
+    "demoUrl": "",
+    "category": "Developer Tools"
+  },
+  {
+    "id": 8,
+    "name": "Fish Monitoring System",
+    "description": "Computer vision system for an autonomous surface vehicle designed to detect freshwater fish and obstacles using YOLO-based object detection and multi-object tracking for edge deployment.",
+    "tags": [
+      "Python",
+      "YOLO",
+      "Computer Vision",
+      "Object Tracking",
+      "AI",
+      "Edge Computing"
+    ],
+    "githubUrl": "",
+    "demoUrl": "",
+    "category": "AI / ML"
+  },
+  {
+    "id": 9,
+    "name": "Portfolio OS",
+    "description": "Interactive Linux-inspired developer portfolio designed as a desktop environment with applications, terminal interactions and a custom OS-style interface.",
+    "tags": [
+      "React",
+      "Spring Boot",
+      "JavaScript",
+      "CSS",
+      "Linux UI"
+    ],
+    "githubUrl": "",
+    "demoUrl": "",
+    "category": "Full Stack"
+  },
+  {
+    "id": 10,
+    "name": "Tesseract 2K26 Website",
+    "description": "Official website for Tesseract 2K26, the annual technical fest of Guru Nanak Institute of Technology.",
+    "tags": [
+      "React",
+      "Web Development",
+      "JavaScript",
+      "Frontend"
+    ],
+    "githubUrl": "",
+    "demoUrl": "",
+    "category": "Web"
+  },
+  {
+    "id": 6,
+    "name": "AnyMuse",
+    "description": "Local AI-powered music assistant focused on creating a more interactive and contextual way to explore and interact with music through a terminal-based interface.",
+    "tags": [
+      "Python",
+      "AI",
+      "CLI",
+      "Music",
+      "LLM"
+    ],
+    "githubUrl": "",
+    "demoUrl": "",
+    "category": "AI / ML"
+  },
+  {
+    "id": 7,
+    "name": "ArogyaGenie",
+    "description": "Healthcare platform combining AI-assisted symptom triage with doctor booking, video consultations, prescriptions, laboratory services, pharmacy workflows and emergency healthcare features.",
+    "tags": [
+      "TypeScript",
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "AI"
+    ],
+    "githubUrl": "",
+    "demoUrl": "",
+    "category": "Full Stack"
+  },
+  {
+    "id": 1,
+    "name": "DiagnoLink",
+    "description": "AI-assisted healthcare platform built with Java and Spring Boot for symptom-based decision support, doctor recommendations and appointment management. Includes JWT authentication, Spring Security, RBAC, MongoDB and LLM integration.",
+    "tags": [
+      "Java",
+      "Spring Boot",
+      "Spring Security",
+      "MongoDB",
+      "React",
+      "AI"
+    ],
+    "githubUrl": "https://github.com/NiladriSarkar01/DiagnoLink",
+    "demoUrl": "",
+    "category": "Full Stack"
+  },
+  {
+    "id": 2,
+    "name": "PV Mart",
+    "description": "Solar marketplace platform connecting customers and solar vendors with vendor management, admin approval, quotation workflows, JWT authentication, MongoDB, Cloudinary and payment-related features.",
+    "tags": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "React",
+      "JWT",
+      "Full Stack"
+    ],
+    "githubUrl": "",
+    "demoUrl": "https://pvmart.co.in",
+    "category": "Full Stack"
+  },
+  {
+    "id": 12,
+    "name": "Deepfake Detection",
+    "description": "AI-based system for detecting manipulated and deepfake images using machine learning and computer vision techniques.",
+    "tags": [
+      "Python",
+      "Machine Learning",
+      "Computer Vision",
+      "AI"
+    ],
+    "githubUrl": "",
+    "demoUrl": "",
+    "category": "AI / ML"
+  }
+]

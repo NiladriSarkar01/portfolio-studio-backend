@@ -1,0 +1,97 @@
+{
+  "skills": {
+    "languages": [
+      {
+        "name": "Java",
+        "description": "Object-oriented programming and Spring Boot development.",
+        "level": 80
+      },
+      {
+        "name": "JavaScript",
+        "description": "Modern JavaScript for full-stack web development.",
+        "level": 72
+      },
+      {
+        "name": "Python",
+        "description": "Backend development, automation and AI/ML.",
+        "level": 65
+      },
+      {
+        "name": "Go",
+        "description": "Compiled, concurrent language for backend services and CLI tools.",
+        "level": 60
+      },
+      {
+        "name": "TypeScript",
+        "description": "Strongly typed JavaScript for building scalable applications.",
+        "level": 60
+      }
+    ],
+    "frontend": [
+      {
+        "name": "React",
+        "description": "Component-based interfaces and interactive web applications.",
+        "level": 72
+      }
+    ],
+    "backend": [
+      {
+        "name": "Spring Boot",
+        "description": "Java backend and enterprise application development.",
+        "level": 78
+      },
+      {
+        "name": "Node.js / Express",
+        "description": "Server-side JavaScript, REST APIs and middleware development.",
+        "level": 70
+      }
+    ],
+    "databases": [
+      {
+        "name": "SQL / PostgreSQL / MySQL",
+        "description": "Relational databases, schema design and querying.",
+        "level": 68
+      },
+      {
+        "name": "MongoDB",
+        "description": "Document-oriented NoSQL database.",
+        "level": 70
+      }
+    ],
+    "devops": [
+      {
+        "name": "Git / GitHub",
+        "description": "Version control and collaborative development workflows.",
+        "level": 75
+      },
+      {
+        "name": "Linux",
+        "description": "Command-line work, process management and Linux tooling.",
+        "level": 68
+      },
+      {
+        "name": "Docker",
+        "description": "Containerised builds and deployments.",
+        "level": 55
+      }
+    ]
+  },
+  "tools": [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Docker",
+    "BullMQ",
+    "Render",
+    "Vercel",
+    "Cloudinary",
+    "Ollama"
+  ],
+  "environment": {
+    "runtime": "Node.js / Python / Java",
+    "frontend": "React / Vite",
+    "backend": "Express / FastAPI / Spring Boot",
+    "database": "PostgreSQL / MongoDB / Redis",
+    "workflow": "Git / Docker / CI/CD"
+  }
+}
